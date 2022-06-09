@@ -1,4 +1,4 @@
-package algorithm.palindrome.java;
+package easy.p9_palindrome.java;
 
 import java.util.Objects;
 
